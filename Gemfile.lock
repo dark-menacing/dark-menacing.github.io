@@ -148,8 +148,8 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  html-proofer (~> 5.0)
-  jekyll-theme-chirpy (~> 7.0, >= 7.0.1)
+  html-proofer
+  jekyll-theme-chirpy
   tzinfo-data
   wdm
 
